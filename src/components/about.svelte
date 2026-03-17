@@ -31,9 +31,9 @@
 
 <style>
   section {
-    width: 90%;
+    width: 100%;
     min-height: 100vh;
-    margin: 0 auto;
+    /* margin: 0 auto; */
     padding-top: 80px;
   }
 

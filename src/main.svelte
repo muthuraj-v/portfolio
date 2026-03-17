@@ -3,12 +3,15 @@
   import Content from "./components/content.svelte";
   import Headers from "./components/headers.svelte";
   import Projects from "./components/projects.svelte";
+  import Skills from "./components/skills.svelte";
 </script>
 
 <main class="container">
   <Headers />
   <Content />
+
   <About />
+  <Skills />
   <Projects />
 </main>
 

@@ -21,7 +21,7 @@
 <div>
   <section class="hero" bind:this={hero}>
     <div class="hero-left">
-      <h1 bind:this={items[0]}>Raghav</h1>
+      <h1 bind:this={items[0]}>MUTHURAJ</h1>
       <h3 bind:this={items[1]}>Software Engineer</h3>
 
       <p bind:this={items[2]}>
