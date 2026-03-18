@@ -5,7 +5,7 @@
     <div class="skills-content">
       <div class="icons-grid">
         <div class="icon-card">
-          <img src="icons/javascript.svg" alt="JavaScript" />
+          <img src="icons/javascript1.svg" alt="JavaScript" />
           <span>JavaScript</span>
         </div>
         <div class="icon-card">
@@ -86,7 +86,9 @@
     width: 42px;
     height: 42px;
     margin-bottom: 10px;
-    background-color: gray;
+
+    filter: invert(1);
+    /* drop-shadow(0 0 6px rgba(255, 255, 255, 0.5)) */
   }
 
   .icon-card span {
