@@ -9,7 +9,6 @@
 <main class="container">
   <Headers />
   <Content />
-
   <About />
   <Skills />
   <Projects />
@@ -21,7 +20,9 @@
     margin: 0 auto;
     padding: 20px 40px;
   }
-
+  .container::-webkit-scrollbar-button {
+    display: none;
+  }
   @media (max-width: 768px) {
     .container {
       padding: 20px;

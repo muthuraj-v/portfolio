@@ -1,9 +1,9 @@
-<script>
+<script lang="ts">
   import { onMount } from "svelte";
   import gsap from "gsap";
 
-  let group;
-  let fullText;
+  let group: gsap.TweenTarget;
+  let fullText: gsap.TweenTarget;
 
   function hoverIn() {
     gsap.to(fullText, {

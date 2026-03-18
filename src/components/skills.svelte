@@ -81,7 +81,22 @@
       transform 0.2s ease,
       opacity 0.2s ease;
   }
+  /* .icon-card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
 
+  padding: 20px;
+  border-radius: 12px;
+
+  background: rgba(255, 255, 255, 0.05);
+  backdrop-filter: blur(8px);
+
+  border: 1px solid rgba(255, 255, 255, 0.1);
+
+  transition: transform 0.2s ease, opacity 0.2s ease;
+} */
   .icon-card img {
     width: 42px;
     height: 42px;

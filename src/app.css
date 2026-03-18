@@ -76,3 +76,11 @@ a {
 ::-webkit-scrollbar-thumb:hover {
   background: #ccc;
 }
+
+/* Track */
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+::-webkit-scrollbar-button {
+  display: none;
+}
