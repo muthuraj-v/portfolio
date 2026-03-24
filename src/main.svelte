@@ -1,6 +1,7 @@
 <script lang="ts">
   import About from "./components/about.svelte";
   import Content from "./components/content.svelte";
+  import Footer from "./components/footer.svelte";
   import Headers from "./components/headers.svelte";
   import Projects from "./components/projects.svelte";
   import Skills from "./components/skills.svelte";
@@ -12,13 +13,14 @@
   <About />
   <Skills />
   <Projects />
+  <Footer />
 </main>
 
 <style>
   .container {
     width: min(1100px, 90%);
     margin: 0 auto;
-    padding: 20px 40px;
+    padding: 20px 40px 10px 40px;
   }
   .container::-webkit-scrollbar-button {
     display: none;

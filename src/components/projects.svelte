@@ -2,7 +2,7 @@
   import ProjectCard from "../lib/project_card.svelte";
 </script>
 
-<section class="projects">
+<section id="projects" class="projects">
   <h4>PROJECTS</h4>
 
   <div class="project-grid">
