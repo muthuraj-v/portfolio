@@ -42,7 +42,7 @@
 
       <!-- LinkedIn -->
       <a
-        href="www.linkedin.com/in/muthuraj-v"
+        href="https://www.linkedin.com/in/muthuraj-v"
         target="_blank"
         aria-label="LinkedIn"
       >
@@ -55,7 +55,7 @@
       <span>/</span>
 
       <a
-        href="www.linkedin.com/in/muthuraj-v"
+        href="https://www.linkedin.com/in/muthuraj-v"
         target="_blank"
         aria-label="Instagram"
       >
