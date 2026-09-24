@@ -5,6 +5,10 @@
     <div class="skills-content">
       <div class="icons-grid">
         <div class="icon-card">
+          <img src="icons/golang.svg" alt="golang" />
+          <span>Golang</span>
+        </div>
+           <div class="icon-card">
           <img src="icons/javascript1.svg" alt="JavaScript" />
           <span>JavaScript</span>
         </div>
